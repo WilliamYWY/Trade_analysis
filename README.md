@@ -28,3 +28,4 @@ What will we analyze:
  ## Output
     
  <img src="https://github.com/WilliamYWY/Trade_analysis/blob/main/%E6%88%AA%E5%9C%96%202022-10-31%20%E4%B8%8B%E5%8D%883.18.53.png" width=50% height=50%>
+ <img src="https://github.com/WilliamYWY/Trade_analysis/blob/main/%E6%88%AA%E5%9C%96%202022-10-31%20%E4%B8%8B%E5%8D%883.23.43.png" width=50% height=50%>
